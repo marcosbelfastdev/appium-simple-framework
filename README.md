@@ -1,2 +1,2 @@
-# appium-simple-framework
-Just setting this up for some quick Appium tests
+# simple-internal-framework
+Just a simple framework used to consume another project in the making
